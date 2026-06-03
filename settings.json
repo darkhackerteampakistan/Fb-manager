@@ -1,0 +1,26 @@
+{
+  "app_name": "Facebook Page Manager",
+  "version": "1.0",
+
+  "facebook": {
+    "page_id": "122142519662997957",
+    "access_token": "EAAO9AmflYjoBRsonofHzZABwGqHZBLzOzMHgjoYBn2MX9RUvxOUY2hdLIlMcKJ2Jfqao37sE7wUsTPWW3wmUjgbcRim5bpTnua3qxaadFjRYTE8eZCgIuHULIJZCSAcGdiUrnD1xqoAe0rAVn71QMAbYgynWo12b4zZAvd6KNifxq22VIWSgkvFBGPA9XrbDYIoB8NO344GZB4FR1ZCTWwoVJTEbYquozTLzNhGxAZDZD",
+    "graph_version": "v23.0"
+  },
+
+  "settings": {
+    "auto_clear_screen": true,
+    "show_banner": true,
+    "debug_mode": false
+  },
+
+  "ui": {
+    "theme": "dark",
+    "language": "en"
+  },
+
+  "limits": {
+    "post_limit": 10,
+    "comment_limit": 20
+  }
+}
